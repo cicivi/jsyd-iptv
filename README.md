@@ -12,4 +12,4 @@ IPTV 播放源地址：
 开源 CDN 加速：  
   
 TVbox 多仓接口：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/heads/main/m3u/tvbox.json  
-开源 CDN 加速：https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/m3u/tvbox.json
+开源 CDN 加速：https://cdn.jsdelivr.net/gh/cicivi/jsyd-iptv/m3u/tvbox.json
