@@ -209,12 +209,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228820/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228853/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/无锡都市资讯.png" group-title="江苏省内",无锡都市资讯
 http://ott.mobaibox.com/PLTV/1/224/3221228914/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州新闻综合.png" group-title="江苏省内",徐州新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州经济生活.png" group-title="江苏省内",徐州经济生活
-http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州文艺影视.png" group-title="江苏省内",徐州文艺影视
-http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/射阳新闻综合.png" group-title="江苏省内",射阳新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221229044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/射阳经济生活.png" group-title="江苏省内",射阳经济生活
@@ -325,8 +319,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
 http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/广场舞.png" group-title="体育频道",广场舞教学
-http://ott.mobaibox.com/PLTV/4/224/3221228635/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/RedBullTV.png" group-title="体育频道",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/咪咕体育.png" group-title="体育频道",咪咕体育
@@ -335,10 +327,6 @@ http://gslbserv.itv.cmvideo.cn/3000000001000010948/index.m3u8?channel-id=Fifastb
 http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/高分电影.png" group-title="影视频道",高分电影
 http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="美亚高清电影台" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/美亚电影.png" group-title="影视频道",美亚电影台
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/乡村爱情.png" group-title="影视频道",乡村爱情故事
-http://ott.mobaibox.com/PLTV/3/224/3221228582/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/精选电影.png" group-title="影视频道",精选电影
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/知否知否.png" group-title="影视频道",知否知否
@@ -349,8 +337,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/AI直播.png" group-title="iHOT频道",AI直播
 http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/亲宝玩具.png" group-title="iHOT频道",玩具测评
-http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/美食美味.png" group-title="iHOT频道",美食美味
 http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/热门综艺.png" group-title="iHOT频道",热门综艺
@@ -365,8 +351,6 @@ http://ott.mobaibox.com/PLTV/1/224/3221228444/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/QQ音乐.png" group-title="音乐频道",QQ音乐台
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/魅力音乐.png" group-title="音乐频道",音乐心情
-http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/怀旧MTV.png" group-title="音乐频道",怀旧MTV
 http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/黑莓动画.png" group-title="动画频道",黑莓动画
