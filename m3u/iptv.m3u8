@@ -1,0 +1,401 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV1.png" group-title="央视频道",CCTV 1
+http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV2.png" group-title="央视频道",CCTV 2
+http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV3.png" group-title="央视频道",CCTV 3
+http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV4.png" group-title="央视频道",CCTV 4
+http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV5.png" group-title="央视频道",CCTV 5
+http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV5+.png" group-title="央视频道",CCTV 5+
+http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV6.png" group-title="央视频道",CCTV 6
+http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV7.png" group-title="央视频道",CCTV 7
+http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV8.png" group-title="央视频道",CCTV 8
+http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV9.png" group-title="央视频道",CCTV 9
+http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV10.png" group-title="央视频道",CCTV 10
+http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV11.png" group-title="央视频道",CCTV 11
+http://ott.mobaibox.com/PLTV/3/224/3221228918/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV12.png" group-title="央视频道",CCTV 12
+http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV13.png" group-title="央视频道",CCTV 13
+http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV14.png" group-title="央视频道",CCTV 14
+http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV15.png" group-title="央视频道",CCTV 15
+http://ott.mobaibox.com/PLTV/3/224/3221228622/index.m3u8
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV16.png" group-title="央视频道",CCTV 16
+http://ott.mobaibox.com/PLTV/3/224/3221228959/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV17.png" group-title="央视频道",CCTV 17
+http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
+#EXTINF:-1 tvg-id="1658" tvg-name="央视精品" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/文化精品.png" group-title="央视频道",文化精品
+http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
+#EXTINF:-1 tvg-id="1673" tvg-name="央视台球" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/央视台球.png" group-title="央视频道",央视台球
+http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
+#EXTINF:-1 tvg-id="1646" tvg-name="风云音乐" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/风云音乐.png" group-title="央视频道",风云音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
+#EXTINF:-1 tvg-id="1647" tvg-name="第一剧场" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/第一剧场.png" group-title="央视频道",第一剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
+#EXTINF:-1 tvg-id="1648" tvg-name="风云剧场" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/风云剧场.png" group-title="央视频道",风云剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
+#EXTINF:-1 tvg-id="1651" tvg-name="怀旧剧场" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
+#EXTINF:-1 tvg-id="1653" tvg-name="女性时尚" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/女性时尚.png" group-title="央视频道",女性时尚
+http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
+#EXTINF:-1 tvg-id="1657" tvg-name="高尔夫网球" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/高尔夫网球.png" group-title="央视频道",高尔夫网球
+http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/风云足球.png" group-title="央视频道",风云足球
+http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/世界地理.png" group-title="央视频道",世界地理
+http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
+#EXTINF:-1 tvg-id="1652" tvg-name="兵器科技" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/兵器科技.png" group-title="央视频道",兵器科技
+http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-id="1285" tvg-name="第一财经" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/第一财经.png" group-title="卫视频道",第一财经
+http://ott.mobaibox.com/PLTV/4/224/3221229065/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/金鹰纪实.png" group-title="卫视频道",金鹰纪实
+http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/金鹰卡通.png" group-title="卫视频道",金鹰卡通
+http://ott.mobaibox.com/PLTV/3/224/3221229001/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-id="1173" tvg-name="北京纪实" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/北京纪实科教.png" group-title="卫视频道",纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/卡酷少儿.png" group-title="卫视频道",卡酷少儿
+http://ott.mobaibox.com/PLTV/3/224/3221228928/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229013/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228972/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229028/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228946/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/河北卫视.png" group-title="卫视频道",河北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/青海卫视.png" group-title="卫视频道",青海卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228955/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228934/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228925/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/山西卫视.png" group-title="卫视频道",山西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229007/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228958/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228966/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229010/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228952/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227476/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰香港
+http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰中文
+http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="349" tvg-name="江苏新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏新闻.png" group-title="江苏省内",江苏新闻
+http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-id="344" tvg-name="江苏城市" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏城市.png" group-title="江苏省内",江苏城市
+http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="345" tvg-name="江苏影视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏影视.png" group-title="江苏省内",江苏影视
+http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏教育.png" group-title="江苏省内",江苏教育
+http://ott.mobaibox.com/PLTV/3/224/3221229034/index.m3u8
+#EXTINF:-1 tvg-id="351" tvg-name="江苏综艺" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏综艺.png" group-title="江苏省内",江苏综艺
+http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-id="347" tvg-name="江苏休闲体育" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏体育休闲.png" group-title="江苏省内",江苏体育休闲
+http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/南京教科.png" group-title="江苏省内",南京教科
+http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/南京十八生活.png" group-title="江苏省内",南京十八生活
+http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/南京文旅纪录.png" group-title="江苏省内",南京文旅纪录
+http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/南京新闻综合.png" group-title="江苏省内",南京新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/镇江新闻综合.png" group-title="江苏省内",镇江新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/镇江教育民生.png" group-title="江苏省内",镇江教育民生
+http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/常州新闻综合.png" group-title="江苏省内",常州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/常州都市.png" group-title="江苏省内",常州都市
+http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/常州生活.png" group-title="江苏省内",常州生活
+http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/金坛综合.png" group-title="江苏省内",金坛综合
+http://ott.mobaibox.com/PLTV/3/224/3221228846/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/铜山综合.png" group-title="江苏省内",铜山综合
+http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/铜山三农.png" group-title="江苏省内",铜山三农
+http://ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/泰州新闻综合.png" group-title="江苏省内",泰州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/泰州经济生活.png" group-title="江苏省内",泰州经济生活
+http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/泰州影视娱乐.png" group-title="江苏省内",泰州影视娱乐
+http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/南通新闻综合.png" group-title="江苏省内",南通新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/南通社教.png" group-title="江苏省内",南通社教
+http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/南通公共崇川.png" group-title="江苏省内",南通公共崇川
+http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/宝应新闻综合.png" group-title="江苏省内",宝应新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/扬州江都.png" group-title="江苏省内",扬州江都台
+http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/新沂综合.png" group-title="江苏省内",新沂综合
+http://ott.mobaibox.com/PLTV/3/224/3221227289/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江阴新闻综合.png" group-title="江苏省内",江阴新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228980/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/沭阳综合.png" group-title="江苏省内",沭阳综合
+http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/苏州4K频道.png" group-title="江苏省内",苏州4K频道
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/昆山新闻综合.png" group-title="江苏省内",昆山新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228820/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/无锡新闻综合.png" group-title="江苏省内",无锡新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228853/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/无锡都市资讯.png" group-title="江苏省内",无锡都市资讯
+http://ott.mobaibox.com/PLTV/1/224/3221228914/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州新闻综合.png" group-title="江苏省内",徐州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州经济生活.png" group-title="江苏省内",徐州经济生活
+http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州文艺影视.png" group-title="江苏省内",徐州文艺影视
+http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/射阳新闻综合.png" group-title="江苏省内",射阳新闻综合
+http://ott.mobaibox.com/PLTV/4/224/3221229044/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/射阳经济生活.png" group-title="江苏省内",射阳经济生活
+http://ott.mobaibox.com/PLTV/4/224/3221229015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/淮安综合.png" group-title="江苏省内",淮安综合
+http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/淮安公共.png" group-title="江苏省内",淮安公共
+http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/淮安影视娱乐.png" group-title="江苏省内",淮安影视娱乐
+http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/连云港新闻综合.png" group-title="江苏省内",连云港新闻
+http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/连云港生活频道.png" group-title="江苏省内",连云港生活
+http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/东海综合.png" group-title="江苏省内",东海综合
+http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/赣榆综合.png" group-title="江苏省内",赣榆综合
+http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/盐城新闻综合.png" group-title="江苏省内",盐城新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/盐城教育民生.png" group-title="江苏省内",盐城教育民生
+http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/宿迁公共.png" group-title="江苏省内",宿迁公共
+http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/宿迁综合.png" group-title="江苏省内",宿迁综合
+http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV4K.png" group-title="4K8K频道",CCTV4K
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV4KHDR.png" group-title="4K8K频道",超高清HDR
+http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="5006" tvg-name="cctv8k" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV8K.png" group-title="4K8K频道",CCTV8K
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/4K修复.png" group-title="4K8K频道",4K修复
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/咪咕视频.png" group-title="4K8K频道",咪咕4K
+http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/4K通用.png" group-title="4K8K频道",至臻视界
+http://gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏卫视4K.png" group-title="4K8K频道",江苏卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/浙江卫视4K.png" group-title="4K8K频道",浙江卫视4K
+http://ott.mobaibox.com/PLTV/3/224/3221228916/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/东方卫视4K.png" group-title="4K8K频道",东方卫视4K
+http://ott.mobaibox.com/PLTV/3/224/3221228936/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/湖南卫视4K.png" group-title="4K8K频道",湖南卫视4K
+http://ott.mobaibox.com/PLTV/3/224/3221228939/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/北京卫视4K.png" group-title="4K8K频道",北京卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/广东卫视4K.png" group-title="4K8K频道",广东卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/深圳卫视4K.png" group-title="4K8K频道",深圳卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/四川卫视4K.png" group-title="4K8K频道",四川卫视4K
+http://ott.mobaibox.com/PLTV/3/224/3221228986/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/山东卫视4K.png" group-title="4K8K频道",山东卫视4K
+http://ott.mobaibox.com/PLTV/3/224/3221228933/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV动作电影.png" group-title="NewTV频道",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV军旅剧场.png" group-title="NewTV频道",军旅剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV热播精选.png" group-title="NewTV频道",热播精选
+http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV精品体育.png" group-title="NewTV频道",精品体育
+http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV惊悚悬疑.png" group-title="NewTV频道",惊悚悬疑
+http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV爱情喜剧.png" group-title="NewTV频道",爱情喜剧
+http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV中国功夫.png" group-title="NewTV频道",中国功夫
+http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV潮妈辣婆.png" group-title="NewTV频道",潮妈辣婆
+http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV古装剧场.png" group-title="NewTV频道",古装剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV军事评论.png" group-title="NewTV频道",军事评论
+http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV海外剧场.png" group-title="NewTV频道",海外剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV精品萌宠.png" group-title="NewTV频道",精品萌宠
+http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV家庭剧场.png" group-title="NewTV频道",家庭剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV谍战大剧.png" group-title="NewTV频道",谍战大剧
+http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV烽烟剧场.png" group-title="NewTV频道",烽烟剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV明星大片.png" group-title="NewTV频道",明星大片
+http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV农业致富.png" group-title="NewTV频道",农业致富
+http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV炫舞未来.png" group-title="NewTV频道",炫舞未来
+http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV怡伴健康.png" group-title="NewTV频道",怡伴健康
+http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV精品大剧.png" group-title="NewTV频道",精品大剧
+http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV哒啵赛事.png" group-title="NewTV频道",哒啵赛事
+http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/彭博财经.png" group-title="NewTV频道",掌上财金
+http://ott.mobaibox.com/PLTV/3/224/3221229068/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/居家健身.png" group-title="体育频道",KEEP
+http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睛彩竞技.png" group-title="体育频道",睛彩竞技
+http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睛彩篮球.png" group-title="体育频道",睛彩篮球
+http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睛彩青少.png" group-title="体育频道",睛彩青少
+http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
+http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/广场舞.png" group-title="体育频道",广场舞教学
+http://ott.mobaibox.com/PLTV/4/224/3221228635/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/RedBullTV.png" group-title="体育频道",RedBull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/咪咕体育.png" group-title="体育频道",咪咕体育
+http://gslbserv.itv.cmvideo.cn/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/黑莓电影.png" group-title="影视频道",黑莓电影
+http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/高分电影.png" group-title="影视频道",高分电影
+http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="美亚高清电影台" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/美亚电影.png" group-title="影视频道",美亚电影台
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/乡村爱情.png" group-title="影视频道",乡村爱情故事
+http://ott.mobaibox.com/PLTV/3/224/3221228582/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/精选电影.png" group-title="影视频道",精选电影
+http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/知否知否.png" group-title="影视频道",知否知否
+http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CGTN.png" group-title="iHOT频道",环球电视网
+http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CETV1.png" group-title="iHOT频道",CETV 1
+http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/AI直播.png" group-title="iHOT频道",AI直播
+http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/亲宝玩具.png" group-title="iHOT频道",玩具测评
+http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/美食美味.png" group-title="iHOT频道",美食美味
+http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/热门综艺.png" group-title="iHOT频道",热门综艺
+http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/动物世界.png" group-title="iHOT频道",动物世界
+http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/自然风景.png" group-title="iHOT频道",自然风景
+http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/咪咕音乐.png" group-title="音乐频道",咪咕音乐
+http://ott.mobaibox.com/PLTV/1/224/3221228444/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/咕咕音乐.png" group-title="音乐频道",流行音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/QQ音乐.png" group-title="音乐频道",QQ音乐台
+http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/魅力音乐.png" group-title="音乐频道",音乐心情
+http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/怀旧MTV.png" group-title="音乐频道",怀旧MTV
+http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/黑莓动画.png" group-title="动画频道",黑莓动画
+http://ott.mobaibox.com/PLTV/1/224/3221225555/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/动漫星空.png" group-title="动画频道",动漫星空
+http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/儿童天地.png" group-title="动画频道",儿童天地
+http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/奥特曼.png" group-title="动画频道",奥特曼
+http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/小猪佩奇.png" group-title="动画频道",小猪佩奇
+http://ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/超级飞侠.png" group-title="动画频道",超级飞侠
+http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/金陵之声.png" group-title="广播Radio",金陵之声
+http://ott.mobaibox.com/PLTV/3/224/3221227940/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏文艺广播.png" group-title="广播Radio",江苏文艺广播
+http://ott.mobaibox.com/PLTV/1/224/3221227987/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏健康广播.png" group-title="广播Radio",江苏健康广播
+http://ott.mobaibox.com/PLTV/1/224/3221227952/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏音乐广播.png" group-title="广播Radio",江苏音乐广播
+http://ott.mobaibox.com/PLTV/1/224/3221227949/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏交通广播.png" group-title="广播Radio",江苏交通广播
+http://ott.mobaibox.com/PLTV/1/224/3221227937/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏财经广播.png" group-title="广播Radio",江苏财经广播
+http://ott.mobaibox.com/PLTV/3/224/3221227946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏新闻广播.png" group-title="广播Radio",江苏新闻广播
+http://ott.mobaibox.com/PLTV/3/224/3221227984/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏故事广播.png" group-title="广播Radio",江苏故事广播
+http://ott.mobaibox.com/PLTV/3/224/3221227990/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏经典流行音乐广播.png" group-title="广播Radio",经典流行音乐
+http://ott.mobaibox.com/PLTV/3/224/3221227943/index.m3u8
