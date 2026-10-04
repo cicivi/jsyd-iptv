@@ -14,4 +14,4 @@ IPTV 播放源地址：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/h
 TVbox 多仓接口：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/heads/main/m3u/tvbox.json  
 开源 CDN 加速：https://cdn.jsdelivr.net/gh/cicivi/jsyd-iptv/m3u/tvbox.json
 
-背景壁纸链接：https://cdn.jsdelivr.net/gh/cicivi/jsyd-iptv/wall.png  
+背景壁纸链接：https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/wall.png  
