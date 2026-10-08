@@ -393,7 +393,5 @@ http://ott.mobaibox.com/PLTV/3/224/3221227943/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/Live南京.png" group-title="街景直播",南京南站
 http://ott.mobaibox.com/PLTV/4/224/3221228715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/Live南京.png" group-title="街景直播",音乐台
-http://ott.mobaibox.com/PLTV/4/224/32212278753/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/Live南京.png" group-title="街景直播",新街口
 http://ott.mobaibox.com/PLTV/4/224/3221228712/index.m3u8
