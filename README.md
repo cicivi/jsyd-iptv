@@ -9,9 +9,11 @@ ott 魔百和信源，自用不定期更新
 如本项目有任何不当之处，欢迎批评指正
 
 IPTV 播放源地址：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/heads/main/m3u/iptv.m3u8  
-开源 CDN 加速：https://cdn.jsdelivr.net/gh/cicivi/jsyd-iptv/m3u/iptv.m3u8  
   
 TVbox 多仓接口：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/heads/main/m3u/tvbox.json  
-开源 CDN 加速：https://cdn.jsdelivr.net/gh/cicivi/jsyd-iptv/m3u/tvbox.json
 
-背景壁纸链接：https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/wall.png  
+背景墙纸一：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/heads/main/wall.png  
+
+背景墙纸二：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/heads/main/slim.png  
+
+
