@@ -16,4 +16,5 @@ TVbox 多仓接口：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/hea
 
 背景墙纸二：https://raw.githubusercontent.com/cicivi/jsyd-iptv/refs/heads/main/slim.png  
 
+  
 ![image](示例.jpg)
