@@ -235,6 +235,18 @@ http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/宿迁综合.png" group-title="江苏省内",宿迁综合
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/灌云综合.png" group-title="江苏省内",灌云新闻综合
+http://ott.mobaibox.com/PLTV/4/224/3221229039/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/灌南综合.png" group-title="江苏省内",灌南新闻综合
+http://ott.mobaibox.com/PLTV/4/224/3221228725/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睢宁综合.png" group-title="江苏省内",睢宁综合
+http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睢宁三农.png" group-title="江苏省内",睢宁三农
+http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/沛县新闻综合.png" group-title="江苏省内",沛县新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/沛县经济生活.png" group-title="江苏省内",沛县经济生活
+http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV4K.png" group-title="4K8K频道",CCTV 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="5006" tvg-name="cctv8k" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV8K.png" group-title="4K8K频道",CCTV 8K
