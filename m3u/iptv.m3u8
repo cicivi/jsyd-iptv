@@ -247,6 +247,18 @@ http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/沛县经济生活.png" group-title="江苏省内",沛县经济生活
 http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州新闻综合.png" group-title="江苏省内",徐州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州经济生活.png" group-title="江苏省内",徐州经济生活
+http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州文艺影视.png" group-title="江苏省内",徐州文艺影视
+http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/邳州综合.png" group-title="江苏省内",邳州综合
+http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/盱眙综合.png" group-title="江苏省内",盱眙综合
+http://ott.mobaibox.com/PLTV/4/224/3221228847/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/宜兴新闻综合.png" group-title="江苏省内",宜兴新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221229047/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV4K.png" group-title="4K8K频道",CCTV 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="5006" tvg-name="cctv8k" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CCTV8K.png" group-title="4K8K频道",CCTV 8K
