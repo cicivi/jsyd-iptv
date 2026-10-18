@@ -295,12 +295,18 @@ http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228986/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/山东卫视4K.png" group-title="4K8K频道",山东卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228933/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV热播精选.png" group-title="NewTV频道",热播精选
+http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV谍战大剧.png" group-title="NewTV频道",谍战大剧
+http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV烽烟剧场.png" group-title="NewTV频道",烽烟剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV军事评论.png" group-title="NewTV频道",军事评论
+http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV动作电影.png" group-title="NewTV频道",动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV军旅剧场.png" group-title="NewTV频道",军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV热播精选.png" group-title="NewTV频道",热播精选
-http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV精品体育.png" group-title="NewTV频道",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV惊悚悬疑.png" group-title="NewTV频道",惊悚悬疑
@@ -313,18 +319,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV古装剧场.png" group-title="NewTV频道",古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV军事评论.png" group-title="NewTV频道",军事评论
-http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV精品大剧.png" group-title="NewTV频道",精品大剧
+http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV海外剧场.png" group-title="NewTV频道",海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV精品萌宠.png" group-title="NewTV频道",精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV家庭剧场.png" group-title="NewTV频道",家庭剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV谍战大剧.png" group-title="NewTV频道",谍战大剧
-http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NewTV烽烟剧场.png" group-title="NewTV频道",烽烟剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV明星大片.png" group-title="NewTV频道",明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV农业致富.png" group-title="NewTV频道",农业致富
@@ -333,11 +335,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV怡伴健康.png" group-title="NewTV频道",怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV精品大剧.png" group-title="NewTV频道",精品大剧
-http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV哒啵赛事.png" group-title="NewTV频道",哒啵赛事
 http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/彭博财经.png" group-title="NewTV频道",掌上财金
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/NEWTV掌上财金.png" group-title="NewTV频道",掌上财金
 http://ott.mobaibox.com/PLTV/3/224/3221229068/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/居家健身.png" group-title="体育频道",KEEP
 http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8
