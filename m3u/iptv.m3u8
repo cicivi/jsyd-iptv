@@ -349,7 +349,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
 http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/RedBullTV.png" group-title="体育频道",RedBull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/RedBullTV.png" group-title="体育频道",红牛极限运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/咪咕体育.png" group-title="体育频道",咪咕体育
 http://gslbserv.itv.cmvideo.cn/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
